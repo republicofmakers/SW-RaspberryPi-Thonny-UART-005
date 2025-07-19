@@ -2,9 +2,7 @@
 
 Here is simple uart code to send data to your PC from develeopment board. I used CP2102.
 
-Demonstration with CoolTerm:
-
-<img width="632" height="421" alt="intro" src="https://github.com/user-attachments/assets/8d1d06c2-af49-4d34-8fd9-80e8cb788c0e" />
+<img width="614" height="402" alt="intro" src="https://github.com/user-attachments/assets/fdbf67c9-7e6e-4c97-8cc9-958dfa60e27b" />
 
 (Intro)
 
