@@ -1,4 +1,4 @@
-# SW-RaspberryPi-Thonny-UART-005
+# SW-MCU-RaspberryPi-UART-005
 
 Here is simple uart code to send data to your PC from develeopment board. I used CP2102.
 
